@@ -1,4 +1,4 @@
 FROM busybox
 WORKDIR /var/download 
-RUN wget https://github.com/cdr/code-server/releases/download/v3.4.1/code-server-3.4.1-linux-arm64.tar.gz
 
+RUN get https://1.na.dl.wireshark.org/osx/Wireshark%203.2.6%20Intel%2064.dmg
